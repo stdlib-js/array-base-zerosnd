@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@deno/mod.js';
+import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@v0.2.1-deno/mod.js';
 ```
 
 #### zerosnd( shape )
@@ -85,7 +85,7 @@ var out = zerosnd( [ 2, 3 ] );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@deno/mod.js';
+import zerosnd from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zerosnd@v0.2.1-deno/mod.js';
 
 var out = zerosnd( [ 1, 3 ] );
 // returns [ [ 0.0, 0.0, 0.0 ] ]
